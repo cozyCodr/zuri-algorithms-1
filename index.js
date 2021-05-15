@@ -74,10 +74,7 @@ function checkYuGiOh (n){
     else {
       continue
     }
-  }
-
-  //Replace combinations
-  
+  }  
   return myArr
 }
 
